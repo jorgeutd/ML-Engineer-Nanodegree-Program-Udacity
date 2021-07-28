@@ -76,7 +76,10 @@ In particular, we used **S3** as a central repository in which to store our data
 We also looked at how we could combine a deployed SageMaker endpoint with **Lambda** and **API Gateway** to create our own simple web app.
 
 Building model in SageMaker
----
+
+- built-in algorithms
+- Set the hyperparameters
+- configure input data 
 
 Deploying model in SageMaker
 ---
